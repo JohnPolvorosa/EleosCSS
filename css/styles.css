@@ -84,22 +84,32 @@
     height: 200px;
 }
 
+
+.intro1 {
+    width: 50%;
+    margin: auto;
+}
+
 .skill1-img {
     width: 25%;
     float: left;
     margin-right: 30px;
 }
 
+.skills {
+    padding: 75px;
+    /* margin-top: 50px; */
+}
 
 
 .skill2-img {
     width: 25%;
     float: right;
-    margin-right: 30px;
+    margin-left: 30px;
 }
 
 .skill2-desc {
-    /* clear: right; */
+    /* clear: right; @@@@@ TO PUT TEXT BESIDE PIC*/
 
 }
 
@@ -128,7 +138,8 @@
     cursor: pointer;
     text-align: center;
     
-    margin-bottom: 10px;
+    margin: 50px 50px;
+    /* margin-bottom: 50px; */
     }
     
     .btn:hover {
@@ -159,13 +170,16 @@
 
 
 
-
+p {
+    line-height: 2;
+}
 
 
 
 body {
     margin: 0;
     text-align: center;
+    color: #000839;
 }
 
 hr {
