@@ -13,6 +13,8 @@
 
 .bot-cloud{
     position: absolute;
+    top:50%;
+    left:20%;
 }
 
 .mid-mountain{
@@ -27,24 +29,24 @@
 }
 
 .Mid {
-    background-color: #b2ebf2;
+    /* background-color: #b2ebf2;
     height: 200px;
     width: 200px;
 
     position: relative;
     display: absolute;
     left: 400px;
-    top: 400px;
+    top: 400px; */
 }
 
 .Bottom {
-    background-color: #00bcd4;
+    /* background-color: #00bcd4;
     height: 200px;
     width: 200px;
 
     position: relative;
     display: absolute;
-    left:200px;
+    left:200px; */
 }
 
 .Bottom2 {
@@ -53,7 +55,8 @@
     width: 200px;
 
     position: relative;
-    display: absolute;
+    /* display: absolute; */
+    display: none;
     bottom: 400px;
 }
 
