@@ -160,12 +160,19 @@
     margin-left: 20px;
     margin-right: 20px;
     font-size: 1.50rem;
+    text-decoration: none;
     font-family: sans-serif;
     color: white;
 }
 
+.footer-link:hover {
+    color:#337FED;
+}
+
 .copyright {
+    margin-top: 20px;
     margin-bottom: 0px;
+    color:#EAF6F6;
 }
 
 
@@ -173,8 +180,6 @@
 p {
     line-height: 2;
 }
-
-
 
 body {
     margin: 0;
@@ -189,6 +194,8 @@ hr {
     border-width: 8px;
     height: 0px;
     width: 10%;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 
