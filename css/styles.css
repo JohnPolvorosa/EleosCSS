@@ -59,6 +59,8 @@
 .skill-row {
     width: 50%;
     margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
 }
 
 .profile {
@@ -70,6 +72,25 @@
 .profile-pic {
     width: auto;
     height: 200px;
+}
+
+.skill1-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+
+.skill2-img {
+    width: 25%;
+    float: right;
+    margin-right: 30px;
+}
+
+.skill2-desc {
+    /* clear: right; */
+
 }
 
 
